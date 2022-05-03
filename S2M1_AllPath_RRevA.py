@@ -931,5 +931,4 @@ while(SiteCount > 1):     # defined in 4000/5000 functions
 
 print("\nProgram Completed")
 print("\nPress <Enter> key to clear this window")
->>>>>>> 7ce43b99d3e966234d1631c3adde4ff089ba220a
 input()
