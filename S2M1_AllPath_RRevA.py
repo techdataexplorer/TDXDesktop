@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Path Spider Web Creation Program
 
 import math
